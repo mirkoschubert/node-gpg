@@ -1,6 +1,6 @@
 {
   "name": "node-gpg",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A node wrapper for gpg",
   "main": "./lib/gpg",
   "repository": "git@github.com:mirkoschubert/node-gpg.git",

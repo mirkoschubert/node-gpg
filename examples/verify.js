@@ -6,7 +6,7 @@
  * In order for this to work you should replace the message with a self-signed one!
  */
 
-var gpg = require(__dirname + '/../lib/gpg');
+var gpg = require('../lib/gpg');
 
 const signed_message = `
 -----BEGIN PGP SIGNED MESSAGE-----
