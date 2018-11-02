@@ -1,0 +1,14 @@
+{
+  "name": "node-gpg",
+  "version": "0.1.0",
+  "description": "A node wrapper for gpg",
+  "main": "bin/node-gpg",
+  "repository": "git@github.com:mirkoschubert/node-gpg.git",
+  "author": "Mirko Schubert <mirkoschubert@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "moment": "^2.22.2"
+  }
+}
